@@ -1,6 +1,6 @@
-# CISCO_VPN_AutoConnect
+# CISCO_VPN_AutoConnect via Batch Script
 
-We can auto connect VPN via Batch script once after logging into Windows instead entering password twice (providing password second time to connect VPN)
+We can auto-connect VPN via Batch script once after logging into Windows instead of entering password twice (providing password second time to connect VPN)
 
 Please follow the below steps to connect VPN:
 
@@ -19,3 +19,9 @@ Step 3 : Save the file in any desired location (C:\Users\Yashwanth\vpn.login_inf
 Step 4 : Provide the appropriate location in the batch file : https://github.com/YashzAlphaGeek/CISCO_VPN_AutoConnect/blob/master/VPN_AutoLogin.bat
 
 Step 5 : Run the batch file.
+
+## Outcome :
+![](https://github.com/YashzAlphaGeek/CISCO_VPN_AutoConnect/blob/master/Images/ConnectingVPN.png)
+
+## Note :
+Please refer batch and login info file for your reference.
